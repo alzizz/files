@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=transtv
+Subject: 
+Date: Fri, 11 Dec 2020 07:51:40 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--MmZSX4VJePZXmEN6xfHTifHYoH5zcoonRpzIU00nV0----"
+
+
+------MultipartBoundary--MmZSX4VJePZXmEN6xfHTifHYoH5zcoonRpzIU00nV0----
+Content-Type: text/html
+Content-ID: <frame-A9A17BE6D5473FB82BEF63642B228C4E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=transtv
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:28731
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211144958.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145001.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145004.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145007.ts
+#EXTINF:2.560000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145010.ts
+#EXTINF:2.840000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145013.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145016.ts
+#EXTINF:3.800000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145019.ts
+#EXTINF:2.840000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145022.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145025.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145028.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145031.ts
+#EXTINF:2.360000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145034.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145037.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145040.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145043.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145046.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145049.ts
+#EXTINF:3.640000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145052.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/transtv/20201211145055.ts
+</body></html>
+------MultipartBoundary--MmZSX4VJePZXmEN6xfHTifHYoH5zcoonRpzIU00nV0------
