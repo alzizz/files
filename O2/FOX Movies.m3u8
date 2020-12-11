@@ -1,0 +1,62 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
+Subject: 
+Date: Fri, 11 Dec 2020 08:15:26 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--kKa58P5qnMTOMf4KAOIgq4zJD2rdk6QLgqgQmelG0e----"
+
+
+------MultipartBoundary--kKa58P5qnMTOMf4KAOIgq4zJD2rdk6QLgqgQmelG0e----
+Content-Type: text/html
+Content-ID: <frame-DF65048FFC680652409F68566D2FE93F@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:8047
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151419.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151422.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151425.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151428.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151431.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151434.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151437.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151440.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151443.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151446.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151449.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151452.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151455.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151458.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151501.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151504.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151507.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151510.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151513.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/foxmovies/20201211151516.ts
+</body></html>
+------MultipartBoundary--kKa58P5qnMTOMf4KAOIgq4zJD2rdk6QLgqgQmelG0e------

@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=trans7
+Subject: 
+Date: Fri, 11 Dec 2020 07:52:11 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4pX53wZumo7VJuzumi1QFRjWTCu1sjlqpN0QVj9XLX----"
+
+
+------MultipartBoundary--4pX53wZumo7VJuzumi1QFRjWTCu1sjlqpN0QVj9XLX----
+Content-Type: text/html
+Content-ID: <frame-A9A17BE6D5473FB82BEF63642B228C4E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=trans7
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:121
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145055.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145058.ts
+#EXTINF:3.480000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145101.ts
+#EXTINF:2.840000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145105.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145108.ts
+#EXTINF:3.160000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145111.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145114.ts
+#EXTINF:2.680000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145117.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145120.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145122.ts
+#EXTINF:2.560000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145126.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145128.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145131.ts
+#EXTINF:3.160000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145134.ts
+#EXTINF:3.320000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145137.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145141.ts
+#EXTINF:3.400000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145144.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145147.ts
+#EXTINF:2.680000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145150.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/trans7/20201211145153.ts
+</body></html>
+------MultipartBoundary--4pX53wZumo7VJuzumi1QFRjWTCu1sjlqpN0QVj9XLX------

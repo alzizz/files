@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
+Subject: 
+Date: Fri, 11 Dec 2020 07:53:11 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--DlM4D3f6IKDxcgtU4v85Smt2uqucCK2TSwOgSjBvpt----"
+
+
+------MultipartBoundary--DlM4D3f6IKDxcgtU4v85Smt2uqucCK2TSwOgSjBvpt----
+Content-Type: text/html
+Content-ID: <frame-A9A17BE6D5473FB82BEF63642B228C4E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=indosiar
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:1536
+#EXTINF:3.520000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145149.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145153.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145156.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145159.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145202.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145205.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145208.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145211.ts
+#EXTINF:3.120000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145214.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145217.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145220.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145223.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145226.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145229.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145232.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145235.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145238.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145241.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145244.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/indosiar/20201211145247.ts
+</body></html>
+------MultipartBoundary--DlM4D3f6IKDxcgtU4v85Smt2uqucCK2TSwOgSjBvpt------

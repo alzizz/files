@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
+Subject: 
+Date: Fri, 11 Dec 2020 07:52:37 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--lTrVoH7vbGQO2xFtgotwOa1ezsZSLYGNKjh3ok19uC----"
+
+
+------MultipartBoundary--lTrVoH7vbGQO2xFtgotwOa1ezsZSLYGNKjh3ok19uC----
+Content-Type: text/html
+Content-ID: <frame-A9A17BE6D5473FB82BEF63642B228C4E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=sctv
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:10261
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145128.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145131.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145134.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145137.ts
+#EXTINF:3.360000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145140.ts
+#EXTINF:3.360000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145143.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145147.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145150.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145153.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145156.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145159.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145202.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145205.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145208.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145211.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145214.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145217.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145220.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145223.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/sctv/20201211145226.ts
+</body></html>
+------MultipartBoundary--lTrVoH7vbGQO2xFtgotwOa1ezsZSLYGNKjh3ok19uC------

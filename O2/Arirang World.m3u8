@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=arirangworld
+Subject: 
+Date: Fri, 11 Dec 2020 08:16:18 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--XKpZQZObX5BFCpIT7ATZcsISMiczBfEsmNxd0llw4M----"
+
+
+------MultipartBoundary--XKpZQZObX5BFCpIT7ATZcsISMiczBfEsmNxd0llw4M----
+Content-Type: text/html
+Content-ID: <frame-48F89FDA3242732744339FDA3E18232C@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=arirangworld
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:13522
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151513.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151516.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151519.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151522.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151525.ts
+#EXTINF:3.180000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151528.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151531.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151534.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151537.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151540.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151543.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151546.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151549.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151552.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151555.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151558.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151601.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151604.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151607.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/arirangworld/20201211151610.ts
+</body></html>
+------MultipartBoundary--XKpZQZObX5BFCpIT7ATZcsISMiczBfEsmNxd0llw4M------

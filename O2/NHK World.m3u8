@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=nhkworld
+Subject: 
+Date: Fri, 11 Dec 2020 08:15:49 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--zsPhJ8d9rMmbZcfI8qAwgAu5i0cA1yUlGbM98lEJou----"
+
+
+------MultipartBoundary--zsPhJ8d9rMmbZcfI8qAwgAu5i0cA1yUlGbM98lEJou----
+Content-Type: text/html
+Content-ID: <frame-23422E722E4B7B6EE8B6102BE942FBE4@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=nhkworld
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:6359
+#EXTINF:2.502500,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151443.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151445.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151448.ts
+#EXTINF:2.502500,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151452.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151454.ts
+#EXTINF:2.502500,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151458.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151500.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151503.ts
+#EXTINF:2.502500,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151507.ts
+#EXTINF:3.003000,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151509.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151512.ts
+#EXTINF:2.502500,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151516.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151518.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151522.ts
+#EXTINF:2.502500,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151525.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151527.ts
+#EXTINF:2.769433,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151531.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151533.ts
+#EXTINF:2.502500,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151537.ts
+#EXTINF:3.336667,
+http://103.130.186.138:8800/oxygenplay/nhkworld/20201211151539.ts
+</body></html>
+------MultipartBoundary--zsPhJ8d9rMmbZcfI8qAwgAu5i0cA1yUlGbM98lEJou------

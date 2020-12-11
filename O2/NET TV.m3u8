@@ -1,0 +1,63 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=nettv
+Subject: 
+Date: Fri, 11 Dec 2020 07:54:08 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--shH5bahxcse6aVUHtxHGbnBtj1YSphwudVmYdE1sHy----"
+
+
+------MultipartBoundary--shH5bahxcse6aVUHtxHGbnBtj1YSphwudVmYdE1sHy----
+Content-Type: text/html
+Content-ID: <frame-A9A17BE6D5473FB82BEF63642B228C4E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://103.130.186.138:8800/getstream.m3u8.php?channel=nettv
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:24343
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145300.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145303.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145306.ts
+#EXTINF:3.640000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145309.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145313.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145316.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145319.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145322.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145325.ts
+#EXTINF:2.900000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145328.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145331.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145334.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145337.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145340.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145343.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145346.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145349.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145352.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145355.ts
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20201211145358.ts
+</body></html>
+------MultipartBoundary--shH5bahxcse6aVUHtxHGbnBtj1YSphwudVmYdE1sHy------
