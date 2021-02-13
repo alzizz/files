@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="HBO Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/HBO_Family_Asia.svg/revision/latest?cb=20201126025523" group-title="Movies",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-name="HBO Hits" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest?cb=20100511073403" group-title="Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="HBO Signature" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/HBO_Signature_Asia.svg/revision/latest?cb=20100511073847" group-title="Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest?cb=20201205115034" group-title="Movies",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="" tvg-name="RED by HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest?cb=20210104162109" group-title="Movies",RED by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
